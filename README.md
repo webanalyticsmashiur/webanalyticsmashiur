@@ -6,7 +6,10 @@ Greetings! I am Md Mashiur Rahman. I am a certified ✨Digital Web Analytics Tra
 
 Skills: Google Tag Manager / Google Analytics 4 / GA4 Server Side Tracking / Facebook Pixel Conversion API / Server Side Tracking Using GTM / Google Ads Conversion Tracking / Google Ads Remarketing Tag / Various Form Tracking / Cookie Consent Banner / Tok-tok Pixel Event API / Snap Pixel / Twitter Pixel / LinkedIn Pixel / Pinterest Pixel / Microsoft Clarity / Hotjar / Qualitative Analysis
 
+- 🔭 I’m currently working on Fiverr & Upwork Freelancing Marketplace 
+- 💬 Ask me about Data Driven Web Analytics  
+- 📫 How to reach me: webanalyticsmashiur@gmail.com 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/webanalyticsmashiur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-mashiur-rahman-web-analytics-tracking-and-reporting-expert-1b22791b7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/webanalyticsmashiur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://growuper.com/)  
 
